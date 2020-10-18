@@ -1,0 +1,27 @@
+fieldset {
+	border:none; 
+	background-color: F4F6F6;
+
+}
+label {
+	font-family:calibry;
+	font-weight: bold;
+
+}
+.nama {
+	width: 30%;
+	height: 35px;
+}
+.email {
+	width: 30%;
+	height: 35px;
+}
+.kirim {
+	border:none;
+	color:white;
+	background-color:green;
+	padding:15px;
+	font-size:15px;
+	font-family:arial;
+	width: 325px;
+}
